@@ -3,7 +3,7 @@ DSE220 Final Project Submissions
 
 File Description: 
 
-- Report.pdf/,docx: Our final report.
+- Report.pdf/docx: Our final report.
 
 - Presentation.pdf: Our presentation deck.
 
