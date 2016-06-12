@@ -3,6 +3,8 @@ DSE220 Final Project Submissions
 
 File Description: 
 
+- Report.pdf/,docx: Our final report.
+
 - Presentation.pdf: Our presentation deck.
 
 - Assignment 1 - Q3 - Using transaction data.ipynb: Contains the analysis carried out using transaction data for all stores
